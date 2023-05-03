@@ -1,0 +1,6 @@
+request_url: "https://sdsfeeder.isd.lacounty.gov/FeederFiles/bos-sop-supdocs---xml-prod---oracle.xml"
+url: "https://test-4f3018.es.us-central1.gcp.cloud.es.io"
+cloud_id: "Workshop_ML:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvOjQ0MyQ0Y2U0N2YwYjJlZGM0NzBiYWE2Y2ZkY2Q4MjQ5Mjg1OCQ4YWNiYTRmN2RhODE0N2E4YWM3ZmMxN2MxOThmNGVkMw=="
+username: "elastic"
+password: "BnJBH5vptVtudn0tMZhfAuZy"
+index_name: "test_index"
